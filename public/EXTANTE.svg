@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #d0b7f9;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#filter);
+      }
+
+      .cls-4 {
+        filter: url(#filter-2);
+      }
+
+      .cls-5 {
+        fill: #fae2b9;
+      }
+
+      .cls-6 {
+        fill: #f5cf8d;
+      }
+
+      .cls-7 {
+        fill: #ffe5e7;
+        filter: url(#filter-3);
+      }
+
+      .cls-8 {
+        fill: #f58a90;
+        filter: url(#filter-4);
+      }
+
+      .cls-9 {
+        fill: #2aeb78;
+      }
+
+      .cls-10 {
+        fill: #67ee9d;
+      }
+
+      .cls-11 {
+        fill: #898491;
+      }
+
+      .cls-12 {
+        fill: #dcdae0;
+      }
+    </style>
+    <filter id="filter" x="47.188" y="52.063" width="35" height="33" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#e5f3ff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="59" y="52" width="12" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#8dc3f5"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="47" y="113" width="31" height="30" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#f58a90"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="57" y="114" width="11" height="9" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#cd5e64"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Retângulo_1" data-name="Retângulo 1" class="cls-1" x="26" y="27" width="11" height="145"/>
+  <path id="Retângulo_1_copiar" data-name="Retângulo 1 copiar" class="cls-2" d="M163.353,27.5h11v145h-11V27.5Z"/>
+  <rect id="Retângulo_2" data-name="Retângulo 2" class="cls-1" x="30" y="86" width="138" height="10"/>
+  <path id="Retângulo_2_copiar" data-name="Retângulo 2 copiar" class="cls-2" d="M30,142.76H168v10H30v-10Z"/>
+  <path id="Retângulo_3" data-name="Retângulo 3" class="cls-3" d="M47.172,52.054h35v33h-35v-33Z"/>
+  <rect id="Retângulo_4" data-name="Retângulo 4" class="cls-4" x="59" y="52" width="12" height="11"/>
+  <rect id="Retângulo_5" data-name="Retângulo 5" class="cls-5" x="93" y="57" width="59" height="28"/>
+  <rect id="Retângulo_6" data-name="Retângulo 6" class="cls-6" x="111" y="57" width="22" height="10"/>
+  <rect id="Retângulo_7" data-name="Retângulo 7" class="cls-7" x="47" y="113" width="31" height="30"/>
+  <rect id="Retângulo_8" data-name="Retângulo 8" class="cls-8" x="57" y="114" width="11" height="9"/>
+  <rect id="Retângulo_9" data-name="Retângulo 9" class="cls-9" x="117" y="108" width="35" height="34"/>
+  <rect id="Retângulo_10" data-name="Retângulo 10" class="cls-10" x="129" y="109" width="12" height="11"/>
+  <rect id="Retângulo_11" data-name="Retângulo 11" class="cls-11" x="85" y="118" width="25" height="24"/>
+  <rect id="Retângulo_12" data-name="Retângulo 12" class="cls-12" x="93" y="119" width="9" height="7"/>
+  <image id="Camada_2" data-name="Camada 2" x="23" y="25" width="154" height="150" xlink:href="data:img/png;base64,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"/>
+</svg>
