@@ -15,4 +15,4 @@ export const apiAuthPrefix = "/api/auth";
  */
 
 // export const DEFAULT_LOGIN_REDIRECT = "/inicio";
-export const DEFAULT_LOGIN_REDIRECT = "/rotina";
+export const DEFAULT_LOGIN_REDIRECT = "/auth/login";
